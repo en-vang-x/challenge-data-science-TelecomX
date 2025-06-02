@@ -92,7 +92,7 @@ Abre el archivo TelecomX_LATAM.ipynb desde el navegador para visualizar el anál
 
 ## 👨‍💻 Autor
 
-**Javier Prada**  
+**EN-VANG: Enrique Vargas**  
 Software Engeneer 
 [LinkedIn]https://www.linkedin.com/in/en-vang/)
 
