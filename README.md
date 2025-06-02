@@ -29,8 +29,8 @@ Este proyecto tiene como objetivo analizar el comportamiento de evasión de clie
 ### 1. Clona el repositorio
 
 ```bash
-git clone https://github.com/jenpronet/Challenge-Alura-TelecomX-Latam.git
-cd Challenge-Alura-TelecomX-Latam
+git clone https://github.com/en-vang-x/challenge-data-science-TelecomX.git
+cd challenge-data-science-TelecomX
 ```
 
 ### 2. Crea un entorno virtual (opcional pero recomendado)
